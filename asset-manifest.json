@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/ArizGlobal/static/css/main.14977124.css",
-    "main.js": "/ArizGlobal/static/js/main.a66995b0.js",
+    "main.css": "/ArizGlobal/static/css/main.fcccf35e.css",
+    "main.js": "/ArizGlobal/static/js/main.be1157eb.js",
     "static/js/453.ed3810f9.chunk.js": "/ArizGlobal/static/js/453.ed3810f9.chunk.js",
     "static/media/in_box.webp": "/ArizGlobal/static/media/in_box.d810d36fad76c4fb495d.webp",
     "static/media/dubai.webp": "/ArizGlobal/static/media/dubai.1f253cccb319e69c467b.webp",
@@ -10,14 +10,18 @@
     "static/media/number (2).webp": "/ArizGlobal/static/media/number (2).5850f498e3e1e8766752.webp",
     "static/media/forget_blocking.jpeg": "/ArizGlobal/static/media/forget_blocking.e72b23fd5c6c7b83d4a6.jpeg",
     "static/media/digital_marketing.jpg": "/ArizGlobal/static/media/digital_marketing.9f761f0bc4d6a766bf53.jpg",
+    "static/media/graphic_desiner.webp": "/ArizGlobal/static/media/graphic_desiner.67e62f2e04d15c98662d.webp",
+    "static/media/Seo_.webp": "/ArizGlobal/static/media/Seo_.4dafa8c9a145b1f371fc.webp",
+    "static/media/digital_markiting.webp": "/ArizGlobal/static/media/digital_markiting.c4936e1ac4c80edf15b5.webp",
+    "static/media/web_development.webp": "/ArizGlobal/static/media/web_development.0268d865b4c4f7209ded.webp",
     "static/media/google.png": "/ArizGlobal/static/media/google.817fc47ec0a54e16b482.png",
     "index.html": "/ArizGlobal/index.html",
-    "main.14977124.css.map": "/ArizGlobal/static/css/main.14977124.css.map",
-    "main.a66995b0.js.map": "/ArizGlobal/static/js/main.a66995b0.js.map",
+    "main.fcccf35e.css.map": "/ArizGlobal/static/css/main.fcccf35e.css.map",
+    "main.be1157eb.js.map": "/ArizGlobal/static/js/main.be1157eb.js.map",
     "453.ed3810f9.chunk.js.map": "/ArizGlobal/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.14977124.css",
-    "static/js/main.a66995b0.js"
+    "static/css/main.fcccf35e.css",
+    "static/js/main.be1157eb.js"
   ]
 }
