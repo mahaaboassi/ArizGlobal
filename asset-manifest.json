@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ArizGlobal/static/css/main.eda85d11.css",
-    "main.js": "/ArizGlobal/static/js/main.93989de6.js",
+    "main.js": "/ArizGlobal/static/js/main.03289942.js",
     "static/js/453.ed3810f9.chunk.js": "/ArizGlobal/static/js/453.ed3810f9.chunk.js",
     "static/media/in_box.webp": "/ArizGlobal/static/media/in_box.d810d36fad76c4fb495d.webp",
     "static/media/dubai.webp": "/ArizGlobal/static/media/dubai.1f253cccb319e69c467b.webp",
@@ -11,14 +11,13 @@
     "static/media/forget_blocking.jpeg": "/ArizGlobal/static/media/forget_blocking.e72b23fd5c6c7b83d4a6.jpeg",
     "static/media/digital_marketing.jpg": "/ArizGlobal/static/media/digital_marketing.9f761f0bc4d6a766bf53.jpg",
     "static/media/google.png": "/ArizGlobal/static/media/google.817fc47ec0a54e16b482.png",
-    "static/media/logo.svg": "/ArizGlobal/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/ArizGlobal/index.html",
     "main.eda85d11.css.map": "/ArizGlobal/static/css/main.eda85d11.css.map",
-    "main.93989de6.js.map": "/ArizGlobal/static/js/main.93989de6.js.map",
+    "main.03289942.js.map": "/ArizGlobal/static/js/main.03289942.js.map",
     "453.ed3810f9.chunk.js.map": "/ArizGlobal/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eda85d11.css",
-    "static/js/main.93989de6.js"
+    "static/js/main.03289942.js"
   ]
 }
