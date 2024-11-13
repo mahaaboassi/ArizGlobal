@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ArizGlobal/static/css/main.eedc5bad.css",
+    "main.css": "/ArizGlobal/static/css/main.14977124.css",
     "main.js": "/ArizGlobal/static/js/main.06f18043.js",
     "static/js/453.ed3810f9.chunk.js": "/ArizGlobal/static/js/453.ed3810f9.chunk.js",
     "static/media/in_box.webp": "/ArizGlobal/static/media/in_box.d810d36fad76c4fb495d.webp",
@@ -12,12 +12,12 @@
     "static/media/digital_marketing.jpg": "/ArizGlobal/static/media/digital_marketing.9f761f0bc4d6a766bf53.jpg",
     "static/media/google.png": "/ArizGlobal/static/media/google.817fc47ec0a54e16b482.png",
     "index.html": "/ArizGlobal/index.html",
-    "main.eedc5bad.css.map": "/ArizGlobal/static/css/main.eedc5bad.css.map",
+    "main.14977124.css.map": "/ArizGlobal/static/css/main.14977124.css.map",
     "main.06f18043.js.map": "/ArizGlobal/static/js/main.06f18043.js.map",
     "453.ed3810f9.chunk.js.map": "/ArizGlobal/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eedc5bad.css",
+    "static/css/main.14977124.css",
     "static/js/main.06f18043.js"
   ]
 }
